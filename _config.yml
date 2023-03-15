@@ -72,7 +72,7 @@ yat:
 # sitemap: false
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+# lang: "ko"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -157,7 +157,7 @@ yat:
 # defaults:
 #   home:
 #     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+#     subheading: "2023-1 OSS실습용 그블로그"
 #     banner: "Your image url"
 
 # Banner default settings
