@@ -154,7 +154,7 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
+defaults:
    home:
      heading: "Batjimin's Blog"
      subheading: "2023-1 OSS실습용 블로그"
