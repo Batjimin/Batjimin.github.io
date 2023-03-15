@@ -155,7 +155,7 @@ yat:
 
 # Page default value
 # defaults:
-#   home:
+   home:
      heading: "Batjimin's Blog"
      subheading: "2023-1 OSS실습용 블로그"
 #     banner: "Your image url"
