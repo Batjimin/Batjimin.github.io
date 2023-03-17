@@ -4,7 +4,7 @@ categories: junk
 ---
 
 2023 오픈소스SW및 실습 테스트 포스팅
-Editted by Subatjimin
+Editted by Subatjimin, Batjimin
 + 2차 수정 테스트
 
 {% comment %}
