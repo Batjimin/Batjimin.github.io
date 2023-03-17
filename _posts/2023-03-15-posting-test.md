@@ -7,6 +7,7 @@ categories: junk
 
 Editted by suBatjimin
 + 2차 수정 테스트
++ 메인에서 활발한 업데이트!
 
 {% comment %}
 Might you have an include in your theme? Why not try it here!
